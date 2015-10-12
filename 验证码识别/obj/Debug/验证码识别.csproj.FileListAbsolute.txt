@@ -1,0 +1,9 @@
+c:\users\zhangzhizhi\documents\visual studio 2013\Projects\验证码识别\验证码识别\bin\Debug\验证码识别.exe.config
+c:\users\zhangzhizhi\documents\visual studio 2013\Projects\验证码识别\验证码识别\bin\Debug\验证码识别.exe
+c:\users\zhangzhizhi\documents\visual studio 2013\Projects\验证码识别\验证码识别\bin\Debug\验证码识别.pdb
+c:\users\zhangzhizhi\documents\visual studio 2013\Projects\验证码识别\验证码识别\obj\Debug\验证码识别.csprojResolveAssemblyReference.cache
+c:\users\zhangzhizhi\documents\visual studio 2013\Projects\验证码识别\验证码识别\obj\Debug\验证码识别.Form1.resources
+c:\users\zhangzhizhi\documents\visual studio 2013\Projects\验证码识别\验证码识别\obj\Debug\验证码识别.Properties.Resources.resources
+c:\users\zhangzhizhi\documents\visual studio 2013\Projects\验证码识别\验证码识别\obj\Debug\验证码识别.csproj.GenerateResource.Cache
+c:\users\zhangzhizhi\documents\visual studio 2013\Projects\验证码识别\验证码识别\obj\Debug\验证码识别.exe
+c:\users\zhangzhizhi\documents\visual studio 2013\Projects\验证码识别\验证码识别\obj\Debug\验证码识别.pdb
